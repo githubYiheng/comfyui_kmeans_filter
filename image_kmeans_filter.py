@@ -34,7 +34,7 @@ class ImageKmeansFilter:
     FUNCTION = "apply_kmeans_filter"
     CATEGORY = "Tools"
 
-    def reduce_colors_kmeans(image, n_clusters=8):
+    def reduce_colors_kmeans(self, image, n_clusters=8):
         """
         使用 K-means 聚类算法减少图像颜色。
 
