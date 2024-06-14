@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_kmeans_filter"
+description = "Nodes:Apply Kmeans Filter"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/githubYiheng/comfyui_kmeans_filter"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui_kmeans_filter"
+Icon = ""
